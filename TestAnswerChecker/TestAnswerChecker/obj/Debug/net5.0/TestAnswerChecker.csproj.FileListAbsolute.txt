@@ -1,0 +1,16 @@
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.exe
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.deps.json
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.runtimeconfig.json
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.runtimeconfig.dev.json
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.dll
+E:\automsim\TestAnswerChecker\TestAnswerChecker\bin\Debug\net5.0\TestAnswerChecker.pdb
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.csproj.AssemblyReference.cache
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.AssemblyInfoInputs.cache
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.AssemblyInfo.cs
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.csproj.CoreCompileInputs.cache
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.dll
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\refint\TestAnswerChecker.dll
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.pdb
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\TestAnswerChecker.genruntimeconfig.cache
+E:\automsim\TestAnswerChecker\TestAnswerChecker\obj\Debug\net5.0\ref\TestAnswerChecker.dll
